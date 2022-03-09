@@ -10,7 +10,6 @@ import {
     marketplaceAddress
 } from '../config'
 
-
 import NFTMarketplace from '../artifacts/contracts/NFTMarketplace.sol/NFTMarketplace.json'
 
 export default function CreateItem() {
@@ -98,7 +97,7 @@ export default function CreateItem() {
                         <img className="rounded mt-4" width="350" src={fileUrl} />
                     )
                 }
-                <button onClick={listNFTForSale} className="font-bold mt-4 bg-pink-500 text-white rounded p-4 shadow-lg">
+                <button onClick={listNFTForSale} className="font-bold mt-4 bg-green-500 text-white rounded p-4 shadow-lg">
                     Create NFT
                 </button>
             </div>

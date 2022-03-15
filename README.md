@@ -1,3 +1,4 @@
 # NFT Marketplace ( sell digital product and your articile etc)
 
-* npx hardhat
+* To initialize the local smart contract development environment.
+ <b>npx hardhat</b>

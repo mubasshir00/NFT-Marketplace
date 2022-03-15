@@ -1,4 +1,4 @@
-# NFT Marketplace ( sell digital product and your articile etc)
+# NFT Marketplace ( sell digital product and social media)
 
 * To initialize the local smart contract development environment.
  

@@ -2,4 +2,4 @@
 
 * To initialize the local smart contract development environment.
  
- <b>npx hardhat</b>
+ > npx hardhat
